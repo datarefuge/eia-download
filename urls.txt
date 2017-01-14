@@ -1,0 +1,9 @@
+http://www.eia.gov/electricity/data/eia826/
+http://www.eia.gov/electricity/data/eia861/
+http://www.eia.gov/electricity/data/eia860m/
+http://www.eia.gov/electricity/data/eia923/
+http://www.eia.gov/electricity/data/eia411/
+http://www.eia.gov/electricity/data/emissions/
+http://www.eia.gov/electricity/data/water/
+http://www.eia.gov/electricity/data/eia767/
+http://www.eia.gov/electricity/data/eia412/
